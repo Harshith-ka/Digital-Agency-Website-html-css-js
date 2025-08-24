@@ -20,19 +20,20 @@
    * colors
    */
 
-  --rich-black-fogra-29-1: hsl(215, 31%, 14%);
-  --rich-black-fogra-29-2: hsl(230, 14%, 8%);
-  --rich-black-fogra-39: hsl(158, 29%, 5%);
-  --granite-gray: hsl(0, 0%, 40%);
-  --go-green_50: hsla(145, 63%, 42%, 0.5);
-  --go-green_8: hsla(145, 63%, 42%, 0.08);
-  --go-green_5: hsla(145, 63%, 42%, 0.05);
-  --light-gray: hsl(0, 0%, 80%);
-  --mint-cream: hsl(160, 100%, 98%);
-  --cultured: hsl(0, 0%, 93%);
-  --go-green: hsl(145, 63%, 42%);
-  --white: hsl(0, 0%, 100%);
-  --jet: hsl(0, 0%, 18%);
+   --rich-black-fogra-29-1: hsl(222, 35%, 15%);  /* deep navy */
+  --rich-black-fogra-29-2: hsl(230, 20%, 10%);  /* darker navy */
+  --rich-black-fogra-39: hsl(260, 28%, 8%);     /* dark purple-black */
+  --granite-gray: hsl(0, 0%, 42%);              /* neutral gray */
+  --go-green_50: hsla(260, 70%, 55%, 0.5);      /* accent purple 50% */
+  --go-green_8: hsla(260, 70%, 55%, 0.08);      /* accent purple 8% */
+  --go-green_5: hsla(260, 70%, 55%, 0.05);      /* accent purple 5% */
+  --light-gray: hsl(0, 0%, 82%);                /* light gray */
+  --mint-cream: hsl(210, 100%, 98%);            /* soft icy blue */
+  --cultured: hsl(0, 0%, 95%);                  /* off-white */
+  --go-green: hsl(260, 70%, 55%);               /* main accent purple */
+  --white: hsl(0, 0%, 100%);                    /* white */
+  --jet: hsl(0, 0%, 20%);                       /* dark gray */
+
 
   /**
    * typography
